@@ -1,6 +1,6 @@
 # flap-the-cat
 My first game that i published
-!! Note i didnt create this game. It's not my own project but i watched some tutorials and adapted with my own skills.
+!! Note i didnt create this game. It's not my own project but i watched some tutorials and adapted it with my own skills.
 
 
 import pygame
